@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": "^8.0",
-        "php-translation/common": "^3.0",
+        "sooyoos/common": "dev-support-php8",
         "symfony/translation": "^3.4 || ^4.2 || ^5.0"
     },
     "require-dev": {

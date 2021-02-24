@@ -1,5 +1,5 @@
 {
-    "name": "php-translation/symfony-storage",
+    "name": "sooyoos/symfony-storage",
     "description": "A translation file storage using Symfony translation component.",
     "license": "MIT",
     "authors": [
@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "php": "^7.2",
+        "php": "^8.0",
         "php-translation/common": "^3.0",
         "symfony/translation": "^3.4 || ^4.2 || ^5.0"
     },
